@@ -1,0 +1,27 @@
+/* 
+  Localizables.strings
+  PruebaTecnicaApp
+
+  Created by Javier Vazquez on 16/04/21.
+  
+*/
+
+//  MARK: - Orders
+"NAME" = "Nombre: ";
+"LOCATION" = "Ubicación: ";
+"EMAIL" = "Correo electrónico: ";
+"UNAVAILABLE" = "No disponible";
+"ORDER_OPTIONS" = "¿Qué deseas realizar con la orden?";
+"ACCEPT_ORDER" = "Aceptar la orden";
+"CANCEL_ORDER" = "Rechazar la orden";
+"CANCEL" = "Cancelar";
+"ADDRESS" = "Dirección: ";
+"DISTANCE" = "Distancia: ";
+"WAITING" = "En espera";
+"ORDERS" = "Ordenes";
+"CITY" = "Ciudad: ";
+"STATE" = "Estado: ";
+"COUNTRY" = "País: ";
+"WANT_TO_NAVIGATE" = "¿Deseas utilizar la navegación?";
+"GO_TO_MAPS" = "Ir a Mapas";
+"EMPTY_RESULTS" = "Jala hacia abajo para refrescar";
